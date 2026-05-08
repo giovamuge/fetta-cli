@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Fetta.App/Fetta.App.csproj" />
+  <Project Path="Fetta.Tests/Fetta.Tests.csproj" />
+</Solution>
